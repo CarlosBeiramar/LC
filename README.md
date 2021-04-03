@@ -1,0 +1,2 @@
+# LC
+Lógica Computacional
